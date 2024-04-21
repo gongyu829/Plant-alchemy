@@ -154,10 +154,11 @@ This project aims to build an app runs on iOS devices.
 4.Open Xcode, build app to your mobile device
 
 
-# readmap
+# readmap :national_park:
 ## "Details of my personal creation and iteration process."我的个人创作与迭代详情
+:classical_building::rock::hut::church::synagogue::foggy::night_with_stars:
 
-## Released已发布
+## Released已发布 	:mountain_snow:
 1.空间映射和视觉定位
 Spatial mapping and visual positioning
 
@@ -174,7 +175,7 @@ Establishment of interaction flow
 Supplementary content for interaction duration and gameplay
 
 
-## In Progress进行中
+## In Progress进行中 :mate:
 1.开始UI界面的设计和实装，返回与退出游戏的设置
 Designing and implementing the UI interface, setting up the return and exit game functions
 
@@ -191,7 +192,7 @@ Creating and importing animations for plants swaying in the wind
 Supplementing and creating imports for environmental particle effects
 
 
-## Planned计划
+## Planned计划 :ice_cube:
 1.想要实现植物识别技术，将该项目从预设空间中解放出来，实现大空间游玩交互与扫描植物生成虚拟植物
 Desire to implement plant recognition technology, liberating the project from predefined spaces, enabling large-scale interactive gameplay and generating virtual plants by scanning real ones.
 
@@ -204,7 +205,7 @@ Iterating spatial mapping and visual positioning to real-time generation.
 Optimizing and supplementing flowcharts.
 
 
-## Under Consideration正在考虑中
+## Under Consideration正在考虑中 :sake:
 1.设备端的扩充，Holokit以及Rokid端的拓展
 Expansion of device capabilities, including extensions for Holokit and Rokid devices.
 
@@ -217,7 +218,7 @@ Iterating from screen tap interactions to gesture-based interactions, enabling i
 Creating more refined plant models and production models.
 
 
-## Scheme iteration方案迭代
+## Scheme iteration方案迭代 :cocktail:
 1.错位时空：视错觉通关小游戏（通过机关与现实形成视错觉搭建道路达到通关目的）
 Displaced Spacetime: A visual illusion puzzle game (players navigate through illusions by manipulating mechanisms to construct paths in reality).
 
@@ -238,4 +239,4 @@ Plant AlchemyP: Scan plants on the ground to generate a digital plant. Click to 
 
 
 ## About Me关于我
-:electron:游离在宇宙之外Adrift Beyond the Universe:electron:
+:electron:游离在宇宙之外Adrift  :first_quarter_moon:   Beyond the Universe:electron:
