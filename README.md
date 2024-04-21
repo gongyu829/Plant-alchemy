@@ -1,6 +1,6 @@
 # Plant-alchemy
 ## Plant Alchemy植物炼金 :herb: :potted_plant:
-该项目提供了一个示例演示了如何使用空间定位来激活一个预设的AR场景以及其中相关的视觉效果，并且可以与视觉效果产生有趣的交互来体验炼金术！这是一款简单的收集合成小游戏，灵感来源于西方炼金术以及中国炼丹的过程。
+该项目提供了一个示例演示了如何使用空间定位来激活一个预设的AR场景以及其中相关的视觉效果，并且可以与视觉效果产生有趣的交互来体验炼金术！这是一款简单的收集合成小游戏，灵感来源于西方炼金术以及中国炼丹的过程。:leaves:
 
 _The project provides an example of how to use spatial positioning to activate a preset AR scene and related visual effects, and can produce interesting interactions with visual effects to experience alchemy! This is a simple collection and synthesis game, inspired by the process of Western alchemy and Chinese alchemy._
 
