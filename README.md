@@ -5,26 +5,26 @@
 
 _The project provides an example demonstrating how to use spatial localization to activate a preset AR scene along with its associated visual effects, and can interact with the visual effects to experience alchemy! It's a simple collection and synthesis mini-game, inspired by Western alchemy and the process of Chinese alchemy._
 
-## What is Alant Alchemy什么是植物炼金 :herb:::potted_plant::fallen_leaf::leaves:
+## What is Alant Alchemy什么是植物炼金 :herb::potted_plant::fallen_leaf::leaves:
 ### earth_africa::earth_americas::earth_asia::globe_with_meridians::compass::night_with_stars:
 “植物炼金”项目采用了lmmersal的空间映射和视觉定位系统，通过使用设备在物理世界中的精确定位来将数字内容与物理世界合并。该功能提供的地图信息可以使得我们在物理世界中叠加视觉效果来展现特别风景。
 
 _The "Plant Alchemy" project utilizes lmmerseal's spatial mapping and visual localization system to merge digital content with the physical world by precisely positioning devices in the physical environment. The map information provided by this feature allows us to overlay visual effects in the physical world to showcase unique scenery._
 
 
-该项目被定位为AR第一人称互动项目，用户可以通过手持iPad或者iPhone等移动设备来与虚拟视觉效果进行互动。通过扫描特定的空间可以显示一个充满了奇幻植物的场景。
+该项目被定位为AR第一人称互动项目，用户可以通过手持iPad或者iPhone等移动设备来与虚拟视觉效果进行互动。通过扫描特定的空间可以显示一个充满了奇幻植物的场景。:kaaba::synagogue::comet:
 
-_The project is positioned as an AR first-person interactive project, and users can interact with virtual visual effects through mobile devices such as iPad or iPhone. A scene full of fantasy plants can be displayed by scanning a specific space._
-
-
-玩家手持设备靠近奇幻植物，在屏幕上点击特定的植物可以收取对应的素材并放置在下方UI栏里，可以通过重复点击来获取更多素材当然哪些植物可以收取素材就需要在场景进行探索！ :dizzy:
-
-_Players can hold the device close to the fantasy plant. Click on a specific plant on the screen to collect the corresponding material and place it in the UI bar below. You can click repeatedly to get more material. Of course, which plants can collect the material needs to be explored in the scene!_
+_The project is positioned as a first-person AR interactive experience where users can interact with virtual visual effects using handheld devices like iPads or iPhones. Scanning specific spaces reveals a scene filled with fantastical plants._
 
 
-通过点击屏幕下方的的蓝色按钮来在空间中显示炼药瓶，将你收集到的素材拖动到炼药瓶的位置与其发生撞击，三个不同的素材可以合成一株奇特的新植物作为你炼金的成果。
+玩家手持设备靠近奇幻植物，在屏幕上点击特定的植物可以收取对应的素材并放置在下方UI栏里，可以通过重复点击来获取更多素材当然哪些植物可以收取素材就需要在场景进行探索！ :dizzy::point_left::palms_up_together::large_blue_diamond:
 
-_By clicking the blue button at the bottom of the screen to display the refining bottle in the space, drag the material you have collected to the position of the refining bottle to collide with it. Three different materials can synthesize a strange new plant as the result of your alchemy._
+_Players approach fantastical plants with their devices, tapping specific plants on the screen to collect corresponding materials and place them in the UI bar below. Exploring the scene is necessary to discover which plants yield materials, and repeated tapping yields more resources._
+
+
+通过点击屏幕下方的的蓝色按钮来在空间中显示炼药瓶，将你收集到的素材拖动到炼药瓶的位置与其发生撞击，三个不同的素材可以合成一株奇特的新植物作为你炼金的成果。:fist_right::wilted_flower::ear_of_rice::tea::tumbler_glass:
+
+_By tapping the blue button at the bottom of the screen, players can summon alchemy flasks into the space. Dragging collected materials to the position of the flask and letting them collide results in the synthesis process. Three different materials can combine to create a unique new plant, serving as the outcome of your alchemical endeavors._
 
 ## How does it work它是如何工作的
 通过在unity中immersal的sdk实现了特定空间识别来进行数字世界和物理世界的融合，当你扫描到类似形状的物理空间后会生成特定的视觉效果。
