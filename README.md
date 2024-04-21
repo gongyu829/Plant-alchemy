@@ -38,6 +38,9 @@ This project aims to build an app runs on iOS devices.
 
 ## How to use如何使用
 1.Clone the project, open with Unity
+
 2.Open Assets > Samples > Immersal SDK > 2.0.1 >Core Samples > Scenes >SimpleSample
+
 3.Build this scene to an Xcode project 
+
 4.Open Xcode, build app to your mobile device
