@@ -1,5 +1,5 @@
 # Plant-alchemy
-## Plant Alchemy植物炼金 :herb::potted_plant::fallen_leaf::leaves:
+## lant AlchemyP植物炼金 :herb::potted_plant::fallen_leaf::leaves:
 ### :fog::milky_way::stars::tornado::snowflake::fire::cyclone::zap:
 该项目提供了一个示例演示了如何使用空间定位来激活一个预设的AR场景以及其中相关的视觉效果，并且可以与视觉效果产生有趣的交互来体验炼金术！这是一款简单的收集合成小游戏，灵感来源于西方炼金术以及中国炼丹的过程。
 _The project provides an example demonstrating how to use spatial localization to activate a preset AR scene along with its associated visual effects, and can interact with the visual effects to experience alchemy! It's a simple collection and synthesis mini-game, inspired by Western alchemy and the process of Chinese alchemy._
@@ -152,3 +152,89 @@ This project aims to build an app runs on iOS devices.
 3.Build this scene to an Xcode project 
 
 4.Open Xcode, build app to your mobile device
+
+
+# readmap
+## "Details of my personal creation and iteration process."我的个人创作与迭代详情
+
+## Released已发布
+1.空间映射和视觉定位
+Spatial mapping and visual positioning
+
+
+2.场景的构建和生成
+Scene construction and generation
+
+
+3.交互流程的成立
+Establishment of interaction flow
+
+
+4.交互长度和游玩内容的补充
+Supplementary content for interaction duration and gameplay
+
+
+## In Progress进行中
+1.开始UI界面的设计和实装，返回与退出游戏的设置
+Designing and implementing the UI interface, setting up the return and exit game functions
+
+
+2.手指点击动画与音效的设计和装载
+Designing and loading finger click animations and sound effects
+
+
+3.植物随风摇摆动画的制作与导入
+Creating and importing animations for plants swaying in the wind
+
+
+4.环境粒子特效的补充和制作导入
+Supplementing and creating imports for environmental particle effects
+
+
+## Planned计划
+1.想要实现植物识别技术，将该项目从预设空间中解放出来，实现大空间游玩交互与扫描植物生成虚拟植物
+Desire to implement plant recognition technology, liberating the project from predefined spaces, enabling large-scale interactive gameplay and generating virtual plants by scanning real ones.
+
+
+2.空间映射和视觉定位迭代为实时生成
+Iterating spatial mapping and visual positioning to real-time generation.
+
+
+3.流程图的优化和补充
+Optimizing and supplementing flowcharts.
+
+
+## Under Consideration正在考虑中
+1.设备端的扩充，Holokit以及Rokid端的拓展
+Expansion of device capabilities, including extensions for Holokit and Rokid devices.
+
+
+2.从屏幕点击交互迭代为手势交互，可以与空间中的虚拟植物进行交互
+Iterating from screen tap interactions to gesture-based interactions, enabling interaction with virtual plants in the space.
+
+
+3.更精美的植物模型与生产模型的制作
+Creating more refined plant models and production models.
+
+
+## Scheme iteration方案迭代
+1.错位时空：视错觉通关小游戏（通过机关与现实形成视错觉搭建道路达到通关目的）
+Displaced Spacetime: A visual illusion puzzle game (players navigate through illusions by manipulating mechanisms to construct paths in reality).
+
+
+2.草木园林：收集与种植小游戏（可以多人互动种植物品）
+Flora Garden: A collecting and planting mini-game (allows multiplayer interaction in planting various flora).
+
+
+3.生命本位：生态纪元（通过植物本身探讨时间的命题，过去现在未来在时间线上的呈现）
+Life-Centric: Eco Epochs (explores the concept of time through plants, presenting the past, present, and future on a timeline).
+
+
+4.植物炼金
+扫描地面上的植物，生成一株数字植物
+点击收集它的本体或者炼金材料，收集有时间限制，被收集的植物产生形态改变
+炼金材料产生的数量不同与稀有程度的区分，造成炼金结果的不同
+Plant AlchemyP: Scan plants on the ground to generate a digital plant. Click to collect its essence or alchemical materials within a time limit, causing morphological changes to the collected plant. Different quantities and rarities of alchemical materials lead to different alchemical results.
+
+
+# About Me关于我
