@@ -8,7 +8,6 @@ _The project provides an example demonstrating how to use spatial localization t
 ## What is Alant Alchemy什么是植物炼金 :herb::potted_plant::fallen_leaf::leaves:
 ### :earth_africa::earth_americas::earth_asia::globe_with_meridians::compass::night_with_stars:
 “植物炼金”项目采用了lmmersal的空间映射和视觉定位系统，通过使用设备在物理世界中的精确定位来将数字内容与物理世界合并。该功能提供的地图信息可以使得我们在物理世界中叠加视觉效果来展现特别风景。
-
 _The "Plant Alchemy" project utilizes lmmerseal's spatial mapping and visual localization system to merge digital content with the physical world by precisely positioning devices in the physical environment. The map information provided by this feature allows us to overlay visual effects in the physical world to showcase unique scenery._
 
 
@@ -44,7 +43,7 @@ _The UI section primarily handles the generation and storage of materials, as we
 
 
 ## Project Workflow项目流程 :herb::potted_plant:
-方案的迭代与确认，概念图以及流程图的制作
+:wave:方案的迭代与确认，概念图以及流程图的制作
 _Iteration and confirmation of the solution, creation of conceptual and flow diagrams._
 
 
