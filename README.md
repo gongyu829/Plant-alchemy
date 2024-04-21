@@ -43,95 +43,95 @@ _The UI section primarily handles the generation and storage of materials, as we
 
 
 ## Project Workflow项目流程 :herb::potted_plant:
-:diamond_shape_with_a_dot_inside:方案的迭代与确认，概念图以及流程图的制作
+:diamond_shape_with_a_dot_inside::small_blue_diamond:方案的迭代与确认，概念图以及流程图的制作
 _Iteration and confirmation of the solution, creation of conceptual and flow diagrams._
 
 
-:diamond_shape_with_a_dot_inside:找到一个合适套用的收集游戏模版资产，不太复杂方便删减修改以及导入移动端
+:diamond_shape_with_a_dot_inside::small_blue_diamond:找到一个合适套用的收集游戏模版资产，不太复杂方便删减修改以及导入移动端
 _Find a suitable template asset for a collection game, which is not too complex and can be easily modified, trimmed, and imported for mobile devices._
 
 
-:diamond_shape_with_a_dot_inside:确认资产的细节与交互
+:diamond_shape_with_a_dot_inside::small_blue_diamond:确认资产的细节与交互
 _Confirm the details and interactions of the assets._
 
 
-:diamond_shape_with_a_dot_inside:模型资产的建模与购买
+:diamond_shape_with_a_dot_inside::small_blue_diamond:模型资产的建模与购买
 _Modeling and purchasing of asset models._
 
 
-:diamond_shape_with_a_dot_inside:将游戏模版资产构建到手机中尝试
+:diamond_shape_with_a_dot_inside::small_blue_diamond:将游戏模版资产构建到手机中尝试
 _Build the game template assets into the phone and try._
 
 
-:diamond_shape_with_a_dot_inside:在项目上载入AR Foundation，构建虚拟网格
+:diamond_shape_with_a_dot_inside::small_blue_diamond:在项目上载入AR Foundation，构建虚拟网格
 _Load AR Foundation in the project, construct a virtual grid._
 
 
-:diamond_shape_with_a_dot_inside:替换资产中的交互模型，更改交互设置
+:diamond_shape_with_a_dot_inside::small_blue_diamond:替换资产中的交互模型，更改交互设置
 _Replace the interactive models in the assets, modify interaction settings._
 
 
-:diamond_shape_with_a_dot_inside:发现资产的不足与局限，仅导出该资产的UI部分与交互构架重新建立场景
+:diamond_shape_with_a_dot_inside::small_blue_diamond:发现资产的不足与局限，仅导出该资产的UI部分与交互构架重新建立场景
 _Identify deficiencies and limitations in the assets, only export the UI portion and interaction framework of the assets and rebuild the scene._
 
 
-:diamond_shape_with_a_dot_inside:用Immersal Mapper扫描一个预设好的空间为空间映射和视觉定位做准备
+:diamond_shape_with_a_dot_inside::small_blue_diamond:用Immersal Mapper扫描一个预设好的空间为空间映射和视觉定位做准备
 _Use Immersal Mapper to scan a pre-set space for spatial mapping and visual positioning preparation._
 
 
-:diamond_shape_with_a_dot_inside:用Scaniverse扫描该空间生成物理世界模型，进行物体更具体的定位
+:diamond_shape_with_a_dot_inside::small_blue_diamond:用Scaniverse扫描该空间生成物理世界模型，进行物体更具体的定位
 _Use Scaniverse to scan the space to generate a physical world model for more specific object positioning._
 
 
-:diamond_shape_with_a_dot_inside:在Unity中导入immersal的SDK，导入扫描好的空间特征点以及物理世界模型，比对定位
+:diamond_shape_with_a_dot_inside::small_blue_diamond:在Unity中导入immersal的SDK，导入扫描好的空间特征点以及物理世界模型，比对定位
 _Import Immersal's SDK into Unity, import scanned space features and physical world models, compare positioning._
 
 
-:diamond_shape_with_a_dot_inside:将交互目标与视觉资产摆放在预设空间上
+:diamond_shape_with_a_dot_inside::small_blue_diamond:将交互目标与视觉资产摆放在预设空间上
 _Place interactive targets and visual assets in the pre-set space._
 
 
-:diamond_shape_with_a_dot_inside:通过代码实现物体可以被点击并且生成一个对应图标
+:diamond_shape_with_a_dot_inside::small_blue_diamond:通过代码实现物体可以被点击并且生成一个对应图标
 _Implement object clicking via code to generate a corresponding icon._
 
 
-:diamond_shape_with_a_dot_inside:设置另外一个小图标控制炼金瓶的出现与隐藏
+:diamond_shape_with_a_dot_inside::small_blue_diamond:设置另外一个小图标控制炼金瓶的出现与隐藏
 _Set another small icon to control the appearance and disappearance of the alchemy bottle._
 
 
-:diamond_shape_with_a_dot_inside:实现UI栏里的图标可以被拖出，并与炼金瓶产生碰撞效果
+:diamond_shape_with_a_dot_inside::small_blue_diamond:实现UI栏里的图标可以被拖出，并与炼金瓶产生碰撞效果
 _Implement the ability to drag icons from the UI bar and create collision effects with the alchemy bottle._
 
 
-:diamond_shape_with_a_dot_inside:设置UI碰撞后会消失并回到UI栏
+:diamond_shape_with_a_dot_inside::small_blue_diamond:设置UI碰撞后会消失并回到UI栏
 _Set up the UI to disappear and return to the UI bar after collision._
 
 
-:diamond_shape_with_a_dot_inside:实现UI与物体碰撞后累计进度，且为不同UI图标，该进度累计到三后留下一个进行下一步的接口
+:diamond_shape_with_a_dot_inside::small_blue_diamond:实现UI与物体碰撞后累计进度，且为不同UI图标，该进度累计到三后留下一个进行下一步的接口
 _Implement the accumulation of progress after collision between the UI and objects, and for different UI icons, accumulate progress up to three before leaving an interface for the next step._
 
 
-:diamond_shape_with_a_dot_inside:下一步在指定位置随机生成9个预制物体中的其中一个，实现炼金目的
+:diamond_shape_with_a_dot_inside::small_blue_diamond:下一步在指定位置随机生成9个预制物体中的其中一个，实现炼金目的
 _Next, randomly spawn one of the nine preset objects at a specified location to achieve the alchemical objective._
 
 
-:diamond_shape_with_a_dot_inside:精调生成物体飘移问题，优化生成效果
+:diamond_shape_with_a_dot_inside::small_blue_diamond:精调生成物体飘移问题，优化生成效果
 _Fine-tune the drifting issue of the spawned objects and optimize the generation effect._
 
 
-:diamond_shape_with_a_dot_inside:设置随机范围限制重复生成
+:diamond_shape_with_a_dot_inside::small_blue_diamond:设置随机范围限制重复生成
 _Set random range limits to prevent repeated spawns._
 
 
-:diamond_shape_with_a_dot_inside:尝试物体的渲染隐藏与人物遮蔽
+:diamond_shape_with_a_dot_inside::small_blue_diamond:尝试物体的渲染隐藏与人物遮蔽
 _Attempt rendering object hiding and character occlusion._
 
 
-:diamond_shape_with_a_dot_inside:初步跑通后的概念视频素材拍摄，第一人称实机与第三视角游玩现场
+:diamond_shape_with_a_dot_inside::small_blue_diamond:初步跑通后的概念视频素材拍摄，第一人称实机与第三视角游玩现场
 _Capture concept video footage after the initial test run, showcasing both first-person and third-person gameplay perspectives live on site._
 
 
-:diamond_shape_with_a_dot_inside:概念视频的剪辑，示意gif的制作
+:diamond_shape_with_a_dot_inside::small_blue_diamond:概念视频的剪辑，示意gif的制作
 _Editing the concept video and creating illustrative GIFs._
 
 
