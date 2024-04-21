@@ -23,7 +23,7 @@ _Players approach fantastical plants with their devices, tapping specific plants
 _By tapping the blue button at the bottom of the screen, players can summon alchemy flasks into the space. Dragging collected materials to the position of the flask and letting them collide results in the synthesis process. Three different materials can combine to create a unique new plant, serving as the outcome of your alchemical endeavors._
 
 
-## How does it work它是如何工作的:mage_man:
+## How does it work它是如何工作的 :mage_man:
 ### :raised_hands::eyes::zombie_man::person_fencing::horse_racing:
 通过在unity中immersal的sdk实现了特定空间识别来进行数字世界和物理世界的融合，当你扫描到类似形状的物理空间后会生成特定的视觉效果。
 _Through the implementation of lmmerseal's SDK in Unity, specific space recognition is achieved to merge the digital and physical worlds. When scanning similar-shaped physical spaces, specific visual effects are generated._
@@ -37,12 +37,12 @@ _Handle the UI generation through click events and set up a callback to return t
 _Use raycasting collision detection to accumulate progress, randomly generate samples of alchemically synthesized plants, and implement restrictions on random numbers to prevent duplicates._
 
 
-## UI:mage:
+## UI :mage:
 UI部分主要承担了素材的生成与收集存放栏，控制炼药瓶的生成与隐藏事件。
 _The UI section primarily handles the generation and storage of materials, as well as controlling the events for summoning and hiding the alchemy flasks._
 
 
-## Project Workflow项目流程
+## Project Workflow项目流程 :herb::potted_plant:
 方案的迭代与确认，概念图以及流程图的制作
 _Iteration and confirmation of the solution, creation of conceptual and flow diagrams._
 
@@ -135,7 +135,7 @@ _Capture concept video footage after the initial test run, showcasing both first
 _Editing the concept video and creating illustrative GIFs._
 
 
-## Requirements要求:mage_woman:
+## Requirements要求 :mage_woman:
 This project aims to build an app runs on iOS devices.
 
 1.Unity 2022.3.17f1c1
@@ -144,7 +144,7 @@ This project aims to build an app runs on iOS devices.
 
 3.iPhone with lidar capability
 
-## How to use如何使用:fairy_man:
+## How to use如何使用 :fairy_man:
 1.Clone the project, open with Unity
 
 2.Open Assets > Samples > Immersal SDK > 2.0.1 >Core Samples > Scenes >SimpleSample
