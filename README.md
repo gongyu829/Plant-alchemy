@@ -12,13 +12,12 @@ _The project provides an example demonstrating how to use spatial localization t
 _The "Plant Alchemy" project utilizes lmmerseal's spatial mapping and visual localization system to merge digital content with the physical world by precisely positioning devices in the physical environment. The map information provided by this feature allows us to overlay visual effects in the physical world to showcase unique scenery._
 
 
-该项目被定位为AR第一人称互动项目，用户可以通过手持iPad或者iPhone等移动设备来与虚拟视觉效果进行互动。通过扫描特定的空间可以显示一个充满了奇幻植物的场景。
-:kaaba::synagogue::comet:
+该项目被定位为AR第一人称互动项目，用户可以通过手持iPad或者iPhone等移动设备来与虚拟视觉效果进行互动。通过扫描特定的空间可以显示一个充满了奇幻植物的场景。 :kaaba::synagogue::comet:
 
 _The project is positioned as a first-person AR interactive experience where users can interact with virtual visual effects using handheld devices like iPads or iPhones. Scanning specific spaces reveals a scene filled with fantastical plants._
 
 
-玩家手持设备靠近奇幻植物，在屏幕上点击特定的植物可以收取对应的素材并放置在下方UI栏里，可以通过重复点击来获取更多素材当然哪些植物可以收取素材就需要在场景进行探索！ :dizzy::point_left::palms_up_together::large_blue_diamond:
+玩家手持设备靠近奇幻植物，在屏幕上点击特定的植物可以收取对应的素材并放置在下方UI栏里，可以通过重复点击来获取更多素材当然哪些植物可以收取素材就需要在场景进行探索！:dizzy::point_left::palms_up_together::large_blue_diamond:
 
 _Players approach fantastical plants with their devices, tapping specific plants on the screen to collect corresponding materials and place them in the UI bar below. Exploring the scene is necessary to discover which plants yield materials, and repeated tapping yields more resources._
 
