@@ -220,19 +220,19 @@ Creating more refined plant models and production models.
 
 
 ## Scheme iteration方案迭代 :cocktail:
-1.错位时空：视错觉通关小游戏（通过机关与现实形成视错觉搭建道路达到通关目的）
+:roller_coaster::ferris_wheel::mountain_railway:1.错位时空：视错觉通关小游戏（通过机关与现实形成视错觉搭建道路达到通关目的）
 Displaced Spacetime: A visual illusion puzzle game (players navigate through illusions by manipulating mechanisms to construct paths in reality).
 
 
-2.草木园林：收集与种植小游戏（可以多人互动种植物品）
+:microbe::blossom::seedling:2.草木园林：收集与种植小游戏（可以多人互动种植物品）
 Flora Garden: A collecting and planting mini-game (allows multiplayer interaction in planting various flora).
 
 
-3.生命本位：生态纪元（通过植物本身探讨时间的命题，过去现在未来在时间线上的呈现）
+:dragon::evergreen_tree::herb:3.生命本位：生态纪元（通过植物本身探讨时间的命题，过去现在未来在时间线上的呈现）
 Life-Centric: Eco Epochs (explores the concept of time through plants, presenting the past, present, and future on a timeline).
 
 
-4.植物炼金
+:leaves::fallen_leaf::shamrock:4.植物炼金
 扫描地面上的植物，生成一株数字植物
 点击收集它的本体或者炼金材料，收集有时间限制，被收集的植物产生形态改变
 炼金材料产生的数量不同与稀有程度的区分，造成炼金结果的不同
@@ -240,4 +240,4 @@ Plant AlchemyP: Scan plants on the ground to generate a digital plant. Click to 
 
 
 ## About Me关于我
-:electron:游离在宇宙之外Adrift  :first_quarter_moon:   Beyond the Universe:electron:
+:electron:游离在宇宙之外Adrift  :first_quarter_moon::feather:   Beyond the Universe:electron:
