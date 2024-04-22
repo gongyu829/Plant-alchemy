@@ -40,11 +40,13 @@ _Handle the UI generation through click events and set up a callback to return t
 射线检测碰撞进行进度累计，随机生成炼金后的植物样本，随机数限制防止重复随机。
 _Use raycasting collision detection to accumulate progress, randomly generate samples of alchemically synthesized plants, and implement restrictions on random numbers to prevent duplicates._
 
+![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/Manager.png)
 
 ## UI :mage:
 UI部分主要承担了素材的生成与收集存放栏，控制炼药瓶的生成与隐藏事件。
 _The UI section primarily handles the generation and storage of materials, as well as controlling the events for summoning and hiding the alchemy flasks._
 
+![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/UI.png)
 
 ## Requirements要求 :mage_woman:
 This project aims to build an app runs on iOS devices.
