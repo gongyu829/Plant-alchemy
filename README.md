@@ -8,18 +8,22 @@ _The project provides an example demonstrating how to use spatial localization t
 ## What is Alant Alchemy什么是植物炼金 :herb::potted_plant::fallen_leaf::leaves:
 ### :earth_africa::earth_americas::earth_asia::globe_with_meridians::compass::night_with_stars:
 “植物炼金”项目采用了lmmersal的空间映射和视觉定位系统，通过使用设备在物理世界中的精确定位来将数字内容与物理世界合并。该功能提供的地图信息可以使得我们在物理世界中叠加视觉效果来展现特别风景。
+
 _The "Plant Alchemy" project utilizes lmmerseal's spatial mapping and visual localization system to merge digital content with the physical world by precisely positioning devices in the physical environment. The map information provided by this feature allows us to overlay visual effects in the physical world to showcase unique scenery._
 
 
 该项目被定位为AR第一人称互动项目，用户可以通过手持iPad或者iPhone等移动设备来与虚拟视觉效果进行互动。通过扫描特定的空间可以显示一个充满了奇幻植物的场景。 :kaaba::synagogue::comet:
+
 _The project is positioned as a first-person AR interactive experience where users can interact with virtual visual effects using handheld devices like iPads or iPhones. Scanning specific spaces reveals a scene filled with fantastical plants._
 ![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/%E5%BC%80%E5%9C%BA.gif)
 
 玩家手持设备靠近奇幻植物，在屏幕上点击特定的植物可以收取对应的素材并放置在下方UI栏里，可以通过重复点击来获取更多素材当然哪些植物可以收取素材就需要在场景进行探索！ :dizzy::point_left::palms_up_together::large_blue_diamond:
+
 _Players approach fantastical plants with their devices, tapping specific plants on the screen to collect corresponding materials and place them in the UI bar below. Exploring the scene is necessary to discover which plants yield materials, and repeated tapping yields more resources._
 ![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/%E7%82%B9%E5%87%BB.gif)
 
 通过点击屏幕下方的的蓝色按钮来在空间中显示炼药瓶，将你收集到的素材拖动到炼药瓶的位置与其发生撞击，三个不同的素材可以合成一株奇特的新植物作为你炼金的成果。 :fist_right::wilted_flower::ear_of_rice::tea::tumbler_glass:
+
 _By tapping the blue button at the bottom of the screen, players can summon alchemy flasks into the space. Dragging collected materials to the position of the flask and letting them collide results in the synthesis process. Three different materials can combine to create a unique new plant, serving as the outcome of your alchemical endeavors._
 ![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/%E5%90%88%E6%88%90.gif)
 
