@@ -17,7 +17,7 @@ _The project is positioned as a first-person AR interactive experience where use
 
 玩家手持设备靠近奇幻植物，在屏幕上点击特定的植物可以收取对应的素材并放置在下方UI栏里，可以通过重复点击来获取更多素材当然哪些植物可以收取素材就需要在场景进行探索！ :dizzy::point_left::palms_up_together::large_blue_diamond:
 _Players approach fantastical plants with their devices, tapping specific plants on the screen to collect corresponding materials and place them in the UI bar below. Exploring the scene is necessary to discover which plants yield materials, and repeated tapping yields more resources._
-
+![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/2024-04-22%20133154.gif)
 
 通过点击屏幕下方的的蓝色按钮来在空间中显示炼药瓶，将你收集到的素材拖动到炼药瓶的位置与其发生撞击，三个不同的素材可以合成一株奇特的新植物作为你炼金的成果。 :fist_right::wilted_flower::ear_of_rice::tea::tumbler_glass:
 _By tapping the blue button at the bottom of the screen, players can summon alchemy flasks into the space. Dragging collected materials to the position of the flask and letting them collide results in the synthesis process. Three different materials can combine to create a unique new plant, serving as the outcome of your alchemical endeavors._
