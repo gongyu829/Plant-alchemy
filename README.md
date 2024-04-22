@@ -35,6 +35,7 @@ _Through the implementation of lmmerseal's SDK in Unity, specific space recognit
 点击事件来处理UI的生成，并设置一个回归使其拖拽碰撞后返回UI栏。
 _Handle the UI generation through click events and set up a callback to return the dragged item to the UI bar after collision detection._
 
+![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/dianji.png)
 
 射线检测碰撞进行进度累计，随机生成炼金后的植物样本，随机数限制防止重复随机。
 _Use raycasting collision detection to accumulate progress, randomly generate samples of alchemically synthesized plants, and implement restrictions on random numbers to prevent duplicates._
