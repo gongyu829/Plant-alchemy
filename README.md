@@ -29,7 +29,7 @@ _By tapping the blue button at the bottom of the screen, players can summon alch
 
 _Through the implementation of lmmerseal's SDK in Unity, specific space recognition is achieved to merge the digital and physical worlds. When scanning similar-shaped physical spaces, specific visual effects are generated._
 
-![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/immersal%20sdk.png =690x1044)
+![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/immersal%20sdk.png)
 
 
 点击事件来处理UI的生成，并设置一个回归使其拖拽碰撞后返回UI栏。
