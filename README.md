@@ -42,6 +42,31 @@ UI部分主要承担了素材的生成与收集存放栏，控制炼药瓶的生
 _The UI section primarily handles the generation and storage of materials, as well as controlling the events for summoning and hiding the alchemy flasks._
 
 
+## Requirements要求 :mage_woman:
+This project aims to build an app runs on iOS devices.
+
+1.Unity 2022.3.17f1c1
+
+2.Xcode 15.2
+
+3.iPhone with lidar capability
+
+## How to use如何使用 :fairy_man:
+1.Clone the project, open with Unity
+
+2.Open Assets > Samples > Immersal SDK > 2.0.1 >Core Samples > Scenes >SimpleSample
+
+3.Build this scene to an Xcode project 
+
+4.Open Xcode, build app to your mobile device
+
+
+# readmap :national_park:
+## "Details of my personal creation and iteration process.
+"我的个人创作与迭代详情
+:classical_building::rock::hut::church::synagogue::foggy::night_with_stars:
+
+
 ## Project Workflow项目流程 :herb::potted_plant:
 :diamond_shape_with_a_dot_inside::small_blue_diamond:方案的迭代与确认，概念图以及流程图的制作
 _Iteration and confirmation of the solution, creation of conceptual and flow diagrams._
@@ -134,30 +159,6 @@ _Capture concept video footage after the initial test run, showcasing both first
 :diamond_shape_with_a_dot_inside::small_blue_diamond:概念视频的剪辑，示意gif的制作
 _Editing the concept video and creating illustrative GIFs._
 
-
-## Requirements要求 :mage_woman:
-This project aims to build an app runs on iOS devices.
-
-1.Unity 2022.3.17f1c1
-
-2.Xcode 15.2
-
-3.iPhone with lidar capability
-
-## How to use如何使用 :fairy_man:
-1.Clone the project, open with Unity
-
-2.Open Assets > Samples > Immersal SDK > 2.0.1 >Core Samples > Scenes >SimpleSample
-
-3.Build this scene to an Xcode project 
-
-4.Open Xcode, build app to your mobile device
-
-
-# readmap :national_park:
-## "Details of my personal creation and iteration process.
-"我的个人创作与迭代详情
-:classical_building::rock::hut::church::synagogue::foggy::night_with_stars:
 
 ## Released已发布 	:mountain_snow:
 1.空间映射和视觉定位
