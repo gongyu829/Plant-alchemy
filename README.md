@@ -162,7 +162,7 @@ _Capture concept video footage after the initial test run, showcasing both first
 _Editing the concept video and creating illustrative GIFs._
 
 
-## Released已发布 	:mountain_snow:
+## Released已发布 :mountain_snow:
 1.空间映射和视觉定位
 Spatial mapping and visual positioning
 
@@ -243,4 +243,4 @@ Plant AlchemyP: Scan plants on the ground to generate a digital plant. Click to 
 
 
 ## About Me关于我
-:electron:游离在宇宙之外Adrift  :first_quarter_moon::feather:   Beyond the Universe:electron:
+:electron:游离在宇宙之外 :first_quarter_moon::feather: Adrift Beyond the Universe:electron:
