@@ -21,7 +21,7 @@ _Players approach fantastical plants with their devices, tapping specific plants
 
 通过点击屏幕下方的的蓝色按钮来在空间中显示炼药瓶，将你收集到的素材拖动到炼药瓶的位置与其发生撞击，三个不同的素材可以合成一株奇特的新植物作为你炼金的成果。 :fist_right::wilted_flower::ear_of_rice::tea::tumbler_glass:
 _By tapping the blue button at the bottom of the screen, players can summon alchemy flasks into the space. Dragging collected materials to the position of the flask and letting them collide results in the synthesis process. Three different materials can combine to create a unique new plant, serving as the outcome of your alchemical endeavors._
-
+![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/2024-04-22%20133645.gif)
 
 ## How does it work它是如何工作的 :mage_man:
 ### :raised_hands::eyes::zombie_man::person_fencing::horse_racing:
