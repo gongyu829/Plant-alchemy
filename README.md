@@ -155,7 +155,8 @@ This project aims to build an app runs on iOS devices.
 
 
 # readmap :national_park:
-## "Details of my personal creation and iteration process."我的个人创作与迭代详情
+## "Details of my personal creation and iteration process.
+"我的个人创作与迭代详情
 :classical_building::rock::hut::church::synagogue::foggy::night_with_stars:
 
 ## Released已发布 	:mountain_snow:
