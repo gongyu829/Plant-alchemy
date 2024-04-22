@@ -3,7 +3,7 @@
 ### :fog::milky_way::stars::tornado::snowflake::fire::cyclone::zap:
 该项目提供了一个示例演示了如何使用空间定位来激活一个预设的AR场景以及其中相关的视觉效果，并且可以与视觉效果产生有趣的交互来体验炼金术！这是一款简单的收集合成小游戏，灵感来源于西方炼金术以及中国炼丹的过程。
 _The project provides an example demonstrating how to use spatial localization to activate a preset AR scene along with its associated visual effects, and can interact with the visual effects to experience alchemy! It's a simple collection and synthesis mini-game, inspired by Western alchemy and the process of Chinese alchemy._
-! (https://github.com/gongyu829/Plant-alchemy/blob/main/link/gif01.jpg)
+![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/gif01.jpg)
 
 ## What is Alant Alchemy什么是植物炼金 :herb::potted_plant::fallen_leaf::leaves:
 ### :earth_africa::earth_americas::earth_asia::globe_with_meridians::compass::night_with_stars:
