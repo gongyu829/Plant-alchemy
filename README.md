@@ -30,7 +30,7 @@ _By tapping the blue button at the bottom of the screen, players can summon alch
 ![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/%E5%90%88%E6%88%90.gif)
 
 ## How does it work它是如何工作的 :mage_man:
-### :raised_hands::eyes::zombie_man::person_fencing::horse_racing:
+:raised_hands::eyes::zombie_man::person_fencing::horse_racing:
 通过在unity中immersal的sdk实现了特定空间识别来进行数字世界和物理世界的融合，当你扫描到类似形状的物理空间后会生成特定的视觉效果。
 
 _Through the implementation of lmmerseal's SDK in Unity, specific space recognition is achieved to merge the digital and physical worlds. When scanning similar-shaped physical spaces, specific visual effects are generated._
@@ -38,12 +38,15 @@ _Through the implementation of lmmerseal's SDK in Unity, specific space recognit
 ![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/immersal%20sdk.png)
 
 
+:point_right::alembic::knot::jigsaw:
 点击事件来处理UI的生成，并设置一个回归使其拖拽碰撞后返回UI栏。
 
 _Handle the UI generation through click events and set up a callback to return the dragged item to the UI bar after collision detection._
 
 ![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/dianji.png)
 
+
+:comet::ocean::droplet::cyclone::cloud_with_snow:
 射线检测碰撞进行进度累计，随机生成炼金后的植物样本，随机数限制防止重复随机。
 
 _Use raycasting collision detection to accumulate progress, randomly generate samples of alchemically synthesized plants, and implement restrictions on random numbers to prevent duplicates._
@@ -57,7 +60,7 @@ _The UI section primarily handles the generation and storage of materials, as we
 
 ![](https://github.com/gongyu829/Plant-alchemy/blob/main/link/UI.png)
 
-## Requirements要求 :mage_woman:
+## Requirements要求 :mage_woman::milky_way:
 This project aims to build an app runs on iOS devices.
 
 1.Unity 2022.3.17f1c1
@@ -66,7 +69,7 @@ This project aims to build an app runs on iOS devices.
 
 3.iPhone with lidar capability
 
-## How to use如何使用 :fairy_man:
+## How to use如何使用 :fairy_man::stars:
 1.Clone the project, open with Unity
 
 2.Open Assets > Samples > Immersal SDK > 2.0.1 >Core Samples > Scenes >SimpleSample
@@ -76,11 +79,10 @@ This project aims to build an app runs on iOS devices.
 4.Open Xcode, build app to your mobile device
 
 
-# readmap :national_park:
-## "Details of my personal creation and iteration process.
-"我的个人创作与迭代详情
+# readmap :national_park::new_moon:
 :classical_building::rock::hut::church::synagogue::foggy::night_with_stars:
-
+"我的个人创作与迭代详情
+"Details of my personal creation and iteration process."
 
 ## Project Workflow项目流程 :herb::potted_plant:
 :diamond_shape_with_a_dot_inside::small_blue_diamond:方案的迭代与确认，概念图以及流程图的制作
@@ -175,7 +177,7 @@ _Capture concept video footage after the initial test run, showcasing both first
 _Editing the concept video and creating illustrative GIFs._
 
 
-## Released已发布 :mountain_snow:
+## Released已发布 :mountain_snow::new_moon_with_face:
 1.空间映射和视觉定位
 Spatial mapping and visual positioning
 
@@ -192,7 +194,7 @@ Establishment of interaction flow
 Supplementary content for interaction duration and gameplay
 
 
-## In Progress进行中 :mate:
+## In Progress进行中 :mate::hourglass_flowing_sand:
 1.开始UI界面的设计和实装，返回与退出游戏的设置
 Designing and implementing the UI interface, setting up the return and exit game functions
 
@@ -209,7 +211,7 @@ Creating and importing animations for plants swaying in the wind
 Supplementing and creating imports for environmental particle effects
 
 
-## Planned计划 :ice_cube:
+## Planned计划 :ice_cube::flying_saucer:
 1.想要实现植物识别技术，将该项目从预设空间中解放出来，实现大空间游玩交互与扫描植物生成虚拟植物
 Desire to implement plant recognition technology, liberating the project from predefined spaces, enabling large-scale interactive gameplay and generating virtual plants by scanning real ones.
 
@@ -222,7 +224,7 @@ Iterating spatial mapping and visual positioning to real-time generation.
 Optimizing and supplementing flowcharts.
 
 
-## Under Consideration正在考虑中 :sake:
+## Under Consideration正在考虑中 :sake::speedboat:
 1.设备端的扩充，Holokit以及Rokid端的拓展
 Expansion of device capabilities, including extensions for Holokit and Rokid devices.
 
@@ -235,7 +237,7 @@ Iterating from screen tap interactions to gesture-based interactions, enabling i
 Creating more refined plant models and production models.
 
 
-## Scheme iteration方案迭代 :cocktail:
+## Scheme iteration方案迭代 :cocktail::fast_forward:
 :roller_coaster::ferris_wheel::mountain_railway:1.错位时空：视错觉通关小游戏（通过机关与现实形成视错觉搭建道路达到通关目的）
 Displaced Spacetime: A visual illusion puzzle game (players navigate through illusions by manipulating mechanisms to construct paths in reality).
 
